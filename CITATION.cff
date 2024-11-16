@@ -1,0 +1,16 @@
+cff-version: 1.0.0
+message: If you use this markup, please cite it using these metadata.
+title: Ecerinis by Albertino Mussato
+abstract: This is Ecerinis by Albertino Mussato, adapted from the Perseus Digital Library, and converted to TEI-P5 format in November 2024.
+authors:
+  - family-names: Chagti
+    given-names: Nitya
+    orcid: "https://orcid.org/0009-0006-1356-3576"
+version: 1.0.0
+date-released: "2024-11-16"
+identifiers:
+  - description: This is the archived snapshot of version 1.0.0 of Ecerinis by Albertino Mussato
+    type: doi
+    value: "10.5281/zenodo.14174125"
+license: CC BY-SA 3.0 US
+repository-code: "https://github.com/nchagti/ecerinis-tei/"
